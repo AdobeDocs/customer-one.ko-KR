@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager - 새로운 지원 경험 제공
 description: Adobe Experience Manager - 새로운 지원 경험 제공
 seo-description: Adobe Experience Manager - 새로운 지원 경험 제공
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ Adobe의 기록에 따르면 귀하는 **조직** 내의 지정된 시스템 관
 * 간편하게 [!DNL Adobe Customer Support]
 * 포털에 대한 지원 사용자 액세스 권한 부여
 
-2019년 11월 4일까지 [[!DNL 시스템 관리 확인 양식]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) 을 작성하여 제출함으로써 이 역할을 수락하거나 또는 조직의 Adobe Experience Manager/Adobe Campaign 제품에 대한 시스템 관리자로서 다른 연락처를 제공하는지 확인하십시오.  이 양식을 작성하면 해당 자격 증명이 조직의 지정된 시스템 관리자에 할당되어 있는지 확인합니다.
+>[!NOTE]
+>2019년 11월 4일까지 **[!DNL System Admin Confirmation Form][을](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)완료하고 제출하여 이 역할을 수락하거나 다른 연락 지점을 Adobe Experience Manager 제품에 대한 조직의 시스템 관리자로 제공할 수 있는지 확인하십시오**.
+>이 양식을 작성하면 해당 자격 증명이 조직의 지정된 시스템 관리자에 할당되어 있는지 확인합니다.
 
 전자 메일 확인 메시지는 [[!DNL 시스템 관리 확인 양식]을 받으면 전송됩니다](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
