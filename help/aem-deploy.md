@@ -4,7 +4,7 @@ description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니�
 seo-title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. AEM 배포 담당자
 seo-description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. AEM 배포 담당자
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
 
 ---
 
@@ -27,7 +27,9 @@ Adobe의 기록에 따르면, 귀사에서 Adobe Experience Manager/Adobe Campai
 * 간편하게 [!DNL Adobe Customer Support]
 * 포털에 대한 지원 사용자 액세스 권한 부여
 
-2019년 11월 4일까지 [[!DNL 시스템 관리 확인 양식]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) 을 작성하여 제출함으로써 이 역할을 수락하거나 또는 조직의 Adobe Experience Manager/Adobe Campaign 제품에 대한 시스템 관리자로서 다른 연락처를 제공하는지 확인하십시오. 이 양식을 작성하면 적절한 자격 증명이 조직의 지정된 시스템 관리자에게 할당되고, Adobe가 귀하의 조직이 향후 변경 사항을 준비할 수 있도록 더 자세한 정보를 제공할 수 있도록 합니다.
+>[!NOTE]
+>2019년 11월 4일까지 **[!DNL System Admin Confirmation Form][을](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)완료하고 제출하여 이 역할을 수락하거나 다른 연락 지점을 Adobe Experience Manager 제품에 대한 조직의 시스템 관리자로 제공할 수 있는지 확인하십시오**.
+>이 양식을 작성하면 적절한 자격 증명이 조직의 지정된 시스템 관리자에게 할당되고, Adobe가 귀하의 조직이 향후 변경 사항을 준비할 수 있도록 더 자세한 정보를 제공할 수 있도록 합니다.
 
 전자 메일 확인 메시지는 [[!DNL 시스템 관리 확인 양식]을 받으면 전송됩니다](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
