@@ -1,15 +1,15 @@
 ---
-title: 캠페인 - 새로운 지원 경험이 제공될 예정입니다.
+title: '[!DNL Campaign] - 새로운 지원 경험이 제공될 예정입니다.'
 seo-title: Adobe Campaign - 새로운 엔터프라이즈 지원 환경 제공
 description: Adobe Campaign - 새로운 엔터프라이즈 지원 환경 제공
 seo-description: Adobe Campaign - 새로운 엔터프라이즈 지원 환경 제공
 translation-type: tm+mt
-source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
+source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# 캠페인 - 새로운 지원 경험이 제공될 예정입니다.
+# [!DNL Campaign] - 새로운 지원 경험 제공 중
 
 **2019년 10월 21일**
 
