@@ -1,10 +1,10 @@
 ---
-title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. 캠페인 배포 담당자
-description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. 캠페인 배포 담당자
-seo-title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. 캠페인 배포 담당자
-seo-description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. 캠페인 배포 담당자
+title: 고객님의 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. [!DNL Campaign] 배포 담당자
+description: 고객님의 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. [!DNL Campaign] 배포 담당자
+seo-title: 고객님의 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. [!DNL Campaign] 배포 담당자
+seo-description: 고객님의 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. [!DNL Campaign] 배포 담당자
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
