@@ -1,10 +1,10 @@
 ---
-cloud: experience Cloud
+cloud: experience-cloud
 product: experience cloud
-sub-product: 고객 1명
-audience: 최종 사용자
+sub-product: customer one
+audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] 도움말'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7cf1dc6e369fd28ab7569ee3d52f03dd3e7cb639
 
 ---
@@ -14,10 +14,10 @@ source-git-commit: 7cf1dc6e369fd28ab7569ee3d52f03dd3e7cb639
 
 + [소개](home.md)
 + [!DNL Campaign] {#campaign}
-   + [[!DNL 캠페인] 알림 목록](campaign-list.md)
-   + [[!DNL 캠페인] 관리 알림 - 10-21-19](campaign-admin.md)
-   + [[!DNL Campaign] 배포 알림 - 10-21-19](campaign-deploy.md)
-+ Adobe Experience Manager {#aem}
-   + [AEM 알림 목록](aem-list.md)
-   + [AEM 관리자 알림 - 10-21-19](aem-admin.md)
-   + [AEM Deploy 연락처 알림 - 10-21-19](aem-deploy.md)
+   + [[!DNL Campaign] 안내 사항 목록](campaign-list.md)
+   + [[!DNL Campaign] 관리자 안내 사항 - 2019년 10월 21일](campaign-admin.md)
+   + [[!DNL Campaign] 배포 안내 사항 - 2019년 10월 21일](campaign-deploy.md)
++ Experience Manager {#aem}
+   + [AEM 안내 사항](aem-list.md)
+   + [AEM 관리자 안내 사항 - 2019년 10월 21일](aem-admin.md)
+   + [AEM 배포 담당자 알림 - 2019년 10월 21일](aem-deploy.md)
