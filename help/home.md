@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: 새로운 Adobe 고객 지원 경험
 seo-description: 새로운 Adobe 고객 지원 경험
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f76c32d1071bd2a6f573721d73026242d3398da4
 
 ---
