@@ -47,4 +47,4 @@ customercare@adobe.com으로 이메일을 [보내](mailto:customercare@adobe.com
 5월 11일 이전에는 기존 캠페인 엑스트라넷 [또는 Experience Manager](https://support.neolane.net/webApp/extranetLogin) Daycare [케이스 관리 시스템을 계속 사용할 수](https://daycare.day.com/home.html) 있습니다.  5월 11일 이후에는 해당 시스템에서 [서비스가](https://adminconsole.adobe.com/) 중단되므로 Admin Console로 리디렉션됩니다.
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+이 이메일에 대한 질문이 있으면 [customercare@adobe.com](mailto:customercare@adobe.com)으로 문의하십시오.
