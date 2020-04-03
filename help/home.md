@@ -3,47 +3,48 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: 새로운 Adobe 고객 지원 경험
 seo-description: 새로운 Adobe 고객 지원 경험
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: ht
-source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
+translation-type: tm+mt
+source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
 ---
 
 
 # 새로운 Adobe 고객 지원 경험
 
-Adobe는 Adobe Experience Manager 및 Campaign 제품을 시작으로 고객이 도움이 필요할 때 보다 손쉽게 Adobe 고객 지원 센터의 지원을 받을 수 있도록 노력하고 있습니다. Adobe의 목표는 최신 엔트리 포털인 Adobe Admin Console 지원 포털로 전환하여 지원 환경을 간소화하는 것입니다. 2020년 5월에 이러한 변경 사항을 진행할 계획입니다.  변경 사항이 적용되면 조직은 Adobe 고객 지원 센터에 액세스하고 일반 엔트리 포털을 통해 서비스 내역을 보다 정확하게 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅으로 도움을 요청할 수 있습니다.
+## 2020년 4월/5월에 Adobe Admin Console 지원 포털을 런칭할 것을 알려드립니다!
 
-Adobe는 출시가 가까워지면 귀하의 조직에 더 많은 정보를 계속 제공할 것입니다.
+이전에 공유한 바와 같이, Adobe는 Adobe Experience Manager 및 Campaign 제품을 시작으로 Adobe 고객 지원과의 상호 작용을 개선하기 위해 노력하고 있습니다. Adobe Admin Console을 사용하여 단일 시작 지점으로 이동하여 지원 경험을 간소화하는 것이 목표입니다. 생방송으로 전환하면 조직은 Adobe 고객 지원에 손쉽게 액세스할 수 있습니다.제품 간의 공통 시스템을 통해 서비스 내역을 보다 정확하게 파악할 수 있습니다.또한 이 단일 포털을 통해 전화, 웹 및 채팅을 통해 도움을 요청할 수 있습니다.
 
 ## 추가 정보
 
-Adobe는 2월과 3월에 이 포털에서 새로운 지원 시스템 관리자와 지원 사용자를 모두 설정할 예정입니다.  Adobe의 기록에 귀하가 현재 Adobe Admin Console에서 지원 시스템 관리자로 활동하고 있거나 구매 계약서에 Adobe Campaign 및/또는 Adobe Experience Manager를 조직 내에서 배포하기 위한 Adobe 고객 담당자로 이름이 기재되어 있는 경우, 조직의 지원 시스템 관리자로 설정됩니다.
+* 4월 27일 또는 5월 11일에 새로운 경험의 일부가 됩니다
+* 고객은 Adobe로부터 추가 지침(Go-Live의 10일 전)이 포함된 2개의 이메일을 수신하게 되며, 티켓 제출 작업이 시작되는 날을 알려 드립니다
+* 5월 11일 이후 레거시 Adobe Experience Manager 및 Campaign 고객 사례 관리 시스템이 해체되고 고객은 추가 지침을 위해 이 페이지로 리디렉션됩니다
+* Go-Live 당시 열려 있던 고객 사례는 새로운 시스템으로 마이그레이션되어 종료를 용이하게 합니다
 
-지원 시스템 관리자는 Admin Console에서 슈퍼 사용자 역할을 하며 새로운 지원 사용자가 생성될 때마다 시스템에서 생성된 이메일을 보게 됩니다.  또한 지원 시스템 관리자는 다음과 같은 작업을 수행할 수 있습니다.
+## 요청된 고객 작업
 
-* 포털에서 지원 사용자 생성/제거 및 액세스 역할 관리
-* Adobe 고객 지원 센터의 지원 사례를 통해 보다 손쉽게 작업할 수 있는 사례 관리 툴 활용
-* 채팅으로 간편하게 Adobe 고객 지원 센터와 대화 시작
+1. Admin Console 지원 컨텐츠 검토 [시작](https://helpx.adobe.com/enterprise/get-started.html) 및 [사용 안내서](https://helpx.adobe.com/enterprise/managing/user-guide.html)
+1. Admin Console에 [로그인하여](https://adminconsole.adobe.com/) 액세스 권한이 있는지 확인합니다.
+1. 시스템 관리자인 경우 조직 내의 지원 사용자를 검토 및 확인하여 정확한지 확인하십시오(다음 안내 페이지에서 도움을 받을 수 있습니다.)사용자 [관리](https://helpx.adobe.com/enterprise/using/users.html) 및 [팀 계정](https://helpx.adobe.com/enterprise/using/accounts.html)관리)
 
-## 향후 몇 개월 동안 예정된 사항
+## 도움이 필요하십니까?
 
-### 2월 - 사용자 설정
+Go-Live 이후 문제가 발생하여 새 도구에 로그인할 수 없는 경우 다음 옵션이 있습니다.
 
-* Adobe에서 알려진 시스템 관리자 설정, 신규 시스템의 계약 담당자 및 알려진 지원 사용자
-* 시스템에서 생성한 이메일 전송 - 사용자 설정 및 사용자 생성/유효성 검사를 전담하는 시스템 가동
+### 옵션 1:이메일
 
-### 3월 - 사용자 유효성 검사
+customercare@adobe.com으로 이메일을 [보내](mailto:customercare@adobe.com) 다음을 포함:
 
-* 기존 지원 사용자를 확인하고 새 시스템에서 누락된 지원 사용자를 생성하기 위해 Adobe가 시스템 관리자/계약 담당자에게 연락
+* 연락처 정보:이름, 이메일 주소, 전화
+* 회사 이름
+* Adobe 제품 소유
+* 발행물 우선 순위
+* 문제에 대한 간략한 설명
 
-### 4월 - 활성화
+### 옵션 2:5월 11일 이전
 
-* 모든 지원 시스템 사용자에게 학습 자료 제공
-* 시스템 관리자/계약 담당자가 지원 사용자 설정 및 역할 완료
+5월 11일 이전에는 기존 캠페인 엑스트라넷 [또는 Experience Manager](https://support.neolane.net/webApp/extranetLogin) Daycare [케이스 관리 시스템을 계속 사용할 수](https://daycare.day.com/home.html) 있습니다.  5월 11일 이후에는 해당 시스템에서 [서비스가](https://adminconsole.adobe.com/) 중단되므로 Admin Console로 리디렉션됩니다.
 
-### 5월 - 출시!
 
-* Adobe, 새 시스템 출시 발표 예정
-* 고객이 새로운 시스템 사용 시작
-
-이 이메일에 대한 질문이 있으면 [customercare@adobe.com](mailto:customercare@adobe.com)으로 문의하십시오.
+For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
