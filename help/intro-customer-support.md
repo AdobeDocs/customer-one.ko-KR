@@ -1,7 +1,7 @@
 ---
-title: 새로운 Adobe 고객 지원 경험 발표
-description: 신규 지원 경험을 위한 최초의 고객 커뮤니케이션
-translation-type: tm+mt
+title: 새로운 Adobe 고객 지원 경험 공지
+description: 새로운 지원 경험을 위한 최초의 고객 커뮤니케이션
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---
@@ -9,7 +9,7 @@ source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 # 새로운 Adobe 고객 지원 경험
 
-Adobe는 Adobe Experience Manager 및 Campaign 제품을 시작으로 고객이 도움이 필요할 때 보다 손쉽게 Adobe 고객 지원 센터의 지원을 받을 수 있도록 노력하고 있습니다. Adobe의 목표는 최신 엔트리 포털인 Adobe Admin Console 지원 포털로 전환하여 지원 환경을 간소화하는 것입니다. 2020년 5월에 이러한 변경 사항을 진행할 계획입니다. 변경 사항이 적용되면 조직은 Adobe 고객 지원 센터에 액세스하고 일반 엔트리 포털을 통해 서비스 내역을 보다 정확하게 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅으로 도움을 요청할 수 있습니다.
+Adobe는 Adobe Experience Manager 및 Campaign 제품을 시작으로 고객이 도움이 필요할 때 보다 손쉽게 Adobe 고객 지원 센터의 지원을 받을 수 있도록 노력하고 있습니다. Adobe의 목표는 최신 엔트리 포털인 Adobe Admin Console 지원 포털로 전환하여 지원 환경을 간소화하는 것입니다. 2020년 5월에 이러한 변경 사항을 진행할 계획입니다. 변경 사항이 적용되면 조직은 Adobe 고객 지원 센터에 액세스하고 공통 엔트리 포털을 통해 서비스 내역을 더욱 정확하게 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅으로 도움을 요청할 수 있습니다.
 
 ## 추가 정보
 
