@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: 새로운 Adobe 고객 지원 경험
 seo-description: 새로운 Adobe 고객 지원 경험
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 
 ---
@@ -32,9 +32,9 @@ source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 
 시작 이후 문제가 발생하여 새 도구에 로그인할 수 없는 경우 다음과 같은 방법을 사용할 수 있습니다.
 
-### 옵션 1:티켓 제출
+### 선택 사항 1: 티켓 제출
 
-Experience League에서 티켓을 로그인하여 [다음 사항을](https://experienceleague.adobe.com/?support-solution=General#support) 포함합니다.
+[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)에서 티켓을 기록하고 다음 사항을 포함하여 문의하십시오.
 
 * 연락처 정보: 이름, 이메일 주소, 전화번호
 * 회사 이름
@@ -47,4 +47,4 @@ Experience League에서 티켓을 로그인하여 [다음 사항을](https://exp
 5월 11일 이전에는 기존 [Campaign 엑스트라넷](https://support.neolane.net/webApp/extranetLogin) 또는 [Experience Manager Daycare](https://daycare.day.com/home.html) 사례 관리 시스템을 계속 사용할 수 있습니다. 5월 11일 이후에는 관련 시스템의 사용이 중단되므로 [Admin Console](https://adminconsole.adobe.com/)로 리디렉션됩니다.
 
 
-이 이메일에 대한 질문이 있으면 Experience League에서 티켓을 기록하여 [연락하십시오](https://experienceleague.adobe.com/?support-solution=General#support).
+이 이메일에 대한 질문이 있으면 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support)에서 티켓을 기록하여 문의하십시오.
