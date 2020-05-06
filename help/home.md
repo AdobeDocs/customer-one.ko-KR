@@ -7,7 +7,7 @@ translation-type: tm+mt
 source-git-commit: e10515e6a7c177b5a93fda130da5517bdd374031
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 5%
+ht-degree: 60%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 5%
 
 이제 [Admin Console을 통해 지원 티켓을 제출할 수 있습니다.](https://adminconsole.adobe.com/)
 
-이전에 공유한 바와 같이 Adobe Experience Manager 및 Campaign 제품을 시작으로 Adobe 고객 지원과의 상호 작용을 개선하기 위해 노력하고 있습니다. Adobe Admin Console을 사용하여 단일 시작 지점으로 이동하여 지원 경험을 간소화하는 것이 목표입니다. 조직은 라이브하면 Adobe 고객 지원에 손쉽게 액세스할 수 있습니다. 제품 간의 공통 시스템을 통해 서비스 내역을 보다 정확하게 파악할 수 있습니다. 또한 이 단일 포털을 통해 전화, 웹 및 채팅을 통해 도움을 요청할 수 있습니다.
+이전에 공유한 바와 같이 Adobe는 Adobe Experience Manager 및 Campaign 제품을 시작으로 고객이 Adobe 고객 지원과 상호 작용하는 방법을 개선하기 위해 노력하고 있습니다. Adobe의 목표는 Adobe Admin Console을 통해 단일 입력 포털로 전환하여 지원 환경을 간소화하는 것입니다. 변경 사항이 적용되면 조직은 Adobe 고객 지원 센터에 쉽게 액세스하고 공통 시스템을 통해 여러 제품의 서비스 기록을 더욱 정확하게 파악할 수 있으며, 이러한 단일 포털을 통해 전화, 웹 및 채팅으로 도움을 요청할 수 있습니다.
 
-## 요청 고객 작업
+## 요청된 고객 작업
 
-1. Admin Console 활성 컨텐츠 [시작하기](https://helpx.adobe.com/enterprise/get-started.html), [사용 안내서](https://helpx.adobe.com/enterprise/managing/user-guide.html) 를 검토하고 지원 케이스 [를 만들고 관리하는 방법을알아봅니다.](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
-1. Admin Console [에](https://adminconsole.adobe.com/) 로그인하여 액세스 권한이 있는지 확인
-1. 시스템 관리자인 경우 조직 내의 지원 사용자를 검토 및 확인하여 정확성을 확인하십시오. 이 안내 페이지는 다음과 같은 도움을 줍니다. [사용자](https://helpx.adobe.com/enterprise/using/users.html) 관리 및 [팀 계정 관리](https://helpx.adobe.com/enterprise/using/accounts.html))
+1. Admin Console 활성 컨텐츠 [시작하기](https://helpx.adobe.com/kr/enterprise/get-started.html), [사용 안내서](https://helpx.adobe.com/kr/enterprise/managing/user-guide.html) 를 검토하고 지원 케이스 [를 만들고 관리하는 방법을알아봅니다.](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
+1. [Admin Console](https://adminconsole.adobe.com/)에 로그인하여 액세스 권한이 있는지 확인합니다.
+1. 시스템 관리자인 경우 조직 내에서 지원 사용자가 정확한지 검토 및 확인합니다([사용자 관리](https://helpx.adobe.com/kr/enterprise/using/users.html) 및 [팀 계정 관리](https://helpx.adobe.com/kr/enterprise/using/accounts.html) 안내 페이지 참조).
 
 ## 기존 시스템은 어떻습니까?
 
@@ -38,21 +38,21 @@ ht-degree: 5%
 
 ## 도움이 필요하십니까?
 
-Go-Live 이후 문제가 발생하여 새 도구에 로그인할 수 없는 경우 다음 옵션이 있습니다.
+시작 이후 문제가 발생하여 새 도구에 로그인할 수 없는 경우 다음과 같은 방법을 사용할 수 있습니다.
 
-### 옵션 1: 티켓 제출
+### 선택 사항 1: 티켓 제출
 
-Experience League에서 티켓을 [기록하여](https://experienceleague.adobe.com/?support-solution=General#support) 문의하고 다음을 포함합니다.
+[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)에서 티켓을 기록하고 다음 사항을 포함하여 문의하십시오.
 
-* 연락처: 이름, 이메일 주소, 전화
+* 연락처 정보: 이름, 이메일 주소, 전화번호
 * 회사 이름
-* Adobe 제품 소유
-* 발행물 우선 순위
+* 소유한 Adobe 제품
+* 문제 우선순위
 * 문제에 대한 간략한 설명
 
-### 옵션 2: 5월 11일 이전
+### 선택 사항 2: 5월 11일 이전
 
-5월 11일 이전에는 기존 [캠페인 엑스트라넷](https://support.neolane.net/webApp/extranetLogin) 또는 [Experience Manager Daycare](https://daycare.day.com/home.html) 케이스 관리 시스템을 계속 사용할 수 있습니다.  5월 11일 이후에는 새로운 사례를 [수락하지 않으므로 Admin Console](https://adminconsole.adobe.com/) 으로 리디렉션됩니다.
+5월 11일 이전에는 기존 [Campaign 엑스트라넷](https://support.neolane.net/webApp/extranetLogin) 또는 [Experience Manager Daycare](https://daycare.day.com/home.html) 사례 관리 시스템을 계속 사용할 수 있습니다. After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
 
 
-이 이메일에 대한 질문이 있으면 [Experience League에서 티켓을 로그인하여 저희에게 연락 주십시오](https://experienceleague.adobe.com/?support-solution=General#support).
+이 이메일에 대한 질문이 있으면 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support)에서 티켓을 기록하여 문의하십시오.
