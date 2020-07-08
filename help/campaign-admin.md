@@ -3,9 +3,9 @@ title: '[!DNL Campaign] - 새로운 지원 경험 제공'
 seo-title: Adobe Campaign - 새로운 엔터프라이즈 지원 경험이 제공될 예정입니다.
 description: Adobe Campaign - 새로운 엔터프라이즈 지원 경험이 제공될 예정입니다.
 seo-description: Adobe Campaign - 새로운 엔터프라이즈 지원 경험이 제공될 예정입니다.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
 
