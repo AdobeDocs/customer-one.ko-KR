@@ -3,9 +3,9 @@ title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - 
 description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - AEM 배포 담당자
 seo-title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - AEM 배포 담당자
 seo-description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - AEM 배포 담당자
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 
