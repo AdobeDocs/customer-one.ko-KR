@@ -1,18 +1,18 @@
 ---
-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-translation-type: tm+mt
+title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - [!DNL Campaign] 배포 담당자
+description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - [!DNL Campaign] 배포 담당자
+seo-title: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - [!DNL Campaign] 배포 담당자
+seo-description: 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다. - [!DNL Campaign] 배포 담당자
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
-# 새로운 Adobe 고객 지원 경험이 제공됩니다.
+# 새로운 Adobe 고객 지원 경험이 곧 제공될 예정입니다.
 
 **2019년 10월 21일**
 
