@@ -34,8 +34,7 @@ Adobe의 기록에 따르면 귀하는 지정된 **시스템 관리자**&#x200B;
 
 >[!NOTE]
 >
->Adobe Experience Manager 제품에 대한 조직의 시스템 관리자로 2019년 11월 4일까지 이 역할을 수락하거나 대체 방법에 대해서 확인하고&#x200B;**[[!DNL 시스템 관리자 확인 양
-식]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 작성 및 제출**&#x200B;하여 주시기 바랍니다.￼
+>Adobe Experience Manager 제품에 대한 조직의 시스템 관리자로 2019년 11월 4일까지 이 역할을 수락하거나 대체 방법에 대해서 확인하고&#x200B;**[[!DNL 시스템 관리자 확인 양식]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 작성 및 제출**&#x200B;하여 주시기 바랍니다.￼
 >
 >이 양식을 작성하면 조직의 지정된 시스템 관리자에게 적절한 자격 증명이 할당됩니다.
 
