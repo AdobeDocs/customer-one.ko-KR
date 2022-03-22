@@ -1,12 +1,12 @@
 ---
-title: 새로운 Adobe 고객 지원 경험 공지
+title: 새로운 Adobe 고객 지원 경험 공지 (이전 공지)
 description: 새로운 지원 환경을 위한 최초의 고객 커뮤니케이션
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: e1bfb9d03312ddd5417672384fe0ca12376c1783
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---
