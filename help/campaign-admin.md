@@ -1,12 +1,12 @@
 ---
-title: '"[!DNL Campaign] - 새로운 지원 경험 제공"'
+title: “[!DNL Campaign] - 새로운 지원 경험이 제공될 예정입니다.”
 seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - 새로운 엔터프라이즈 지원 경험이 제공될 예정입니다.
 seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe의 기록에 따르면 귀하는 **조직 내에서 지정된 시스템 �
 
 >[!NOTE]
 >
->**2019년 11월 4일까지 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 작성하고 제출하여 이 역할을 Adobe Campaign 제품에 대한 조직의 시스템 관리자로 수락(또는 다른 연락처 제공)하는지 확인하십시오**.
+>**2019년 11월 4일까지 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 작성하고 제출하여** 이 역할을 Adobe Campaign 제품에 대한 조직의 시스템 관리자로 수락(또는 다른 연락처 제공)하는지 확인하십시오.
 >
 >이 양식을 작성하면 조직의 지정된 시스템 관리자에게 적절한 자격 증명이 할당됩니다.
 
