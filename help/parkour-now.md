@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '453'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe는 2월과 3월 중 포털에 새 지원 시스템 관리자와 고객 지
 지원 시스템 관리자 및 고객 지원 관리자는 지원 사용자가 Admin Console에서 만들어지면 시스템에서 생성된 이메일을 확인할 수 있습니다. 이러한 사용자 역할은 모두 다음을 수행할 수 있습니다.
 
 * Adobe 고객 지원 센터의 지원 사례를 통해 보다 손쉽게 작업할 수 있는 사례 관리 툴 활용
-* 채팅으로 간편하게 Adobe 고객 지원 센터와 대화 시작  (Adobe Analytics에서)
+* 채팅으로 간편하게 Adobe 고객 지원 센터와 대화 시작   (Adobe Analytics에서)
 * 서비스 내역을 더욱 정확하게 파악
 * 인기 있는 도움말 항목 및 포럼 검색
 
