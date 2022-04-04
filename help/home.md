@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '664'
+ht-degree: 100%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 0%
 
 Adobe는 고객 지원과 상호 작용하는 방법을 개선하기 위해 노력하고 있습니다. Adobe의 목표는 Adobe Admin Console을 통해 단일 입력 포털로 전환하여 지원 환경을 간소화하는 것입니다. 변경 사항이 적용되면 조직은 Adobe 고객 지원 센터에 쉽게 액세스하고 공통 시스템을 통해 여러 제품의 서비스 기록을 더욱 정확하게 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅으로 도움을 요청할 수 있습니다.
 
-## 새로운 지원 플랫폼에 대한 도움이 필요하십니까?
+## 새로운 지원 플랫폼에 대한 도움이 필요하신가요?
 
-Adobe는 고객이 새로운 지원 프로세스에 대해 질문할 수 있는 일련의 온라인 회의를 제공하고 있습니다. 가입하려면 하나 이상을 선택하십시오.
+Adobe는 고객이 새로운 지원 프로세스에 대해 질문할 수 있도록 여러 온라인 회의를 제공하고 있습니다. 참여할 회의 하나 이상을 선택하세요.
 
 | 날짜 및 시간 | 등록 링크 |
 |--- |--- |
-| 목요일, 4월 7일 오전 8시 | [이벤트 링크](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| 목요일, 4월 7일 오후 5시 | [이벤트 링크](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| 4월 20일 수요일 오전 8시 | [이벤트 링크](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| 4월 20일 수요일 오후 5시 | [이벤트 링크](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| 목요일, 4월 21일 오전 8시 | [이벤트 링크](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| 목요일, 4월 21일 오후 5시 | [이벤트 링크](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+| 4월 7일 목요일 오전 8시(태평양 표준시) | [이벤트 링크](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| 4월 7일 목요일 오후 5시(태평양 표준시) | [이벤트 링크](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| 4월 20일 수요일 오전 8시(태평양 표준시) | [이벤트 링크](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
+| 4월 20일 수요일 오후 5시(태평양 표준시) | [이벤트 링크](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| 4월 21일 목요일 오전 8시(태평양 표준시) | [이벤트 링크](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| 4월 21일 목요일 오후 5시(태평양 표준시) | [이벤트 링크](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
 
 {style=&quot;table-layout:auto&quot;}
 
