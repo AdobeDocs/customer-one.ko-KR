@@ -1,9 +1,9 @@
 ---
 title: Adobe 고객 지원 문의
 description: 팀, 엔터프라이즈 및 Experience Cloud 고객을 위한 Adobe 고객 지원 센터에 문의하는 방법에 대한 정보입니다.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,22 @@ Adobe 고객 지원 센터에 문의하려면 **지원** 탭에서 다음을 수
 
 ![팀 이미지](assets/team.png)
 
-[추가 정보](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## Enterprise 계정의 경우
 
 ![팀 이미지](assets/enterprise.png)
 
-[추가 정보](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## Experience Cloud
 
 ![팀 이미지](assets/ec.png)
 
-[추가 정보](https://www.adobe.com/go/ac_ec_not_supported_en)
+<!--
+[Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
