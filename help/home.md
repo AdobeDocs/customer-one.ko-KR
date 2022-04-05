@@ -5,9 +5,9 @@ description: 새로운 Adobe 고객 지원 경험
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: ht
-source-wordcount: '664'
+source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+workflow-type: tm+mt
+source-wordcount: '646'
 ht-degree: 100%
 
 ---
@@ -37,13 +37,13 @@ Adobe는 고객이 새로운 지원 프로세스에 대해 질문할 수 있도�
 
 ## Admin Console 지원 티켓을 제출하는 방법 {#submit-ticket}
 
-[Admin Console](https://adminconsole.adobe.com/)에서 지원 티켓을 제출하려면 시스템 관리자가 할당한 지원 관리자 역할이 있어야 합니다. 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리자 역할은 지원 관리자 역할을 할당할 수 없으며, 지원 티켓 제출에 사용하는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 자세한 내용은 [엔터프라이즈 및 팀 고객 지원 센터](https://helpx.adobe.com/kr/enterprise/using/support-and-expert-services.html) 설명서를 참조하세요.
+[Admin Console](https://adminconsole.adobe.com/)에서 지원 티켓을 제출하려면 시스템 관리자가 할당한 지원 관리자 역할이 있어야 합니다. 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리자 역할은 지원 관리자 역할을 할당할 수 없으며, 지원 티켓 제출에 사용하는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 자세한 내용은 [엔터프라이즈 및 팀 고객 지원 센터](customer-care.md) 설명서를 참조하세요.
 
 ### 지원 관리자 역할 할당
 
 지원 관리자 역할은 관리자가 아닌 역할이지만 지원 관련 정보에 액세스할 수 있습니다. 지원 관리자는 문제 보고서를 보고 만들고 관리할 수 있습니다.
 
-지원 관리자 역할을 할당하려면 관리자 역할 설명서의 [엔터프라이즈 관리자 역할 편집](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html#add-admin-teams) 안내를 따르세요. 참고: 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 관리자의 계층에 대한 자세한 내용은 [관리자 역할](https://helpx.adobe.com/kr/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) 설명서를 참조하세요.
+지원 관리자 역할을 할당하려면 관리자 역할 설명서의 [엔터프라이즈 관리자 역할 편집](admin-roles.md#add-admin-teams) 안내를 따르세요. 참고: 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 관리자의 계층에 대한 자세한 내용은 [관리자 역할](admin-roles.md) 설명서를 참조하세요.
 
 ### Admin Console로 지원 티켓 만들기
 
