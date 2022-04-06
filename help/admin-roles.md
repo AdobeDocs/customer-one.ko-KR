@@ -1,13 +1,13 @@
 ---
 title: 관리 역할
 description: 조직은 Adobe Admin Console을 사용하여 Adobe 제품 액세스 및 사용을 세밀하게 관리할 수 있는 유연한 관리 계층을 정의할 수 있습니다.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # 관리 역할
 
@@ -45,7 +45,7 @@ _관리자 역할 계층_
 
 각 관리자 역할에 대한 권한 및 권한의 자세한 목록은 [권한](#enterprise-admins-permissions-matrix).
 
-## 엔터프라이즈 관리자 추가
+## Enterprise 관리자 역할 추가 {#add-enterprise-role}
 
 적용 대상: Adobe 엔터프라이즈 고객.
 
