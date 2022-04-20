@@ -3,7 +3,7 @@ title: Adobe 고객 지원 센터 문의
 description: 팀, 기업, Experience Cloud 고객이 Adobe 고객 지원 센터에 문의하는 방법에 대한 정보입니다.
 exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
 source-git-commit: 9812c6947b67797bb682581bea9c99b9d67884b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
 ht-degree: 100%
 
