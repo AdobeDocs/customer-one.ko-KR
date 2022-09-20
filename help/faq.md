@@ -4,8 +4,8 @@ title: Adobe 비즈니스 플랫폼 및 Admin Console FAQ
 description: Adobe Workfront에 대한 FAQ
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '497'
+ht-degree: 1%
 
 ---
 
