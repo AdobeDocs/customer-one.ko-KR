@@ -5,10 +5,10 @@ description: 새로운 Adobe 고객 지원 경험
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
-workflow-type: ht
-source-wordcount: '487'
-ht-degree: 100%
+source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+workflow-type: tm+mt
+source-wordcount: '687'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,38 @@ Adobe는 고객 지원과 상호 작용하는 방법을 개선하기 위해 노�
 
 지원 관리자 역할은 관리자가 아닌 역할이지만 지원 관련 정보에 액세스할 수 있습니다. 지원 관리자는 문제 보고서를 보고 만들고 관리할 수 있습니다.
 
-지원 관리자 역할을 할당하려면 관리자 역할 설명서의 [엔터프라이즈 관리자 역할 편집](admin-roles.md#add-enterprise-role) 안내를 따르세요. 참고: 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 관리자의 계층에 대한 자세한 내용은 [관리자 역할](admin-roles.md) 설명서를 참조하세요.
+관리자를 추가하거나 초대하는 방법:
+
+1. Admin Console에서 **[!UICONTROL 사용자]** > **[!UICONTROL 관리자]**&#x200B;를 선택합니다.
+1. **[!UICONTROL 관리자 추가]**&#x200B;를 클릭합니다.
+1. 이름 또는 이메일 주소를 입력합니다.
+
+   유효한 이메일 주소를 지정하고 화면의 정보를 채워 기존 사용자를 검색하거나 새 사용자를 추가할 수 있습니다.
+
+   ![책임자 추가](assets/admin-console-add-admin.png)
+
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다. 관리 역할 목록이 표시됩니다.
+
+사용자에게 지원 관리자 역할을 할당하려면(사용자가 지원에 문의할 수 있도록 활성화):
+
+1. 다음 항목 선택 **[!UICONTROL 지원 관리자]** 옵션을 선택합니다.
+
+   ![관리자 권한 편집](assets/edit-admin-rights.png)
+
+1. 다음 두 옵션 중 하나를 선택합니다.
+
+   * 옵션 1: **[!UICONTROL 기본 지원 관리자]**. 사용자에게 모든 솔루션(Marketo 제외)에 대한 액세스 권한을 부여하려면 이 옵션을 선택합니다.
+   * 옵션 2: **[!UICONTROL 제품 지원 관리자]**: Marketo 지원을 위해 이 옵션을 선택합니다. 사용자에게 액세스 권한을 부여할 Marketo 인스턴스를 선택합니다.
+
+   ![관리 권한 편집 Marketo](assets/edit-admin-rights-advanced.png)
+
+1. 항목을 선택한 다음 **[!UICONTROL 저장]**.
+
+해당 사용자는 `message@adobe.com` 주소로 새 관리 권한에 대한 초대 이메일을 받게 됩니다.
+
+사용자가 조직에 참여하려면 이메일에서 **시작**&#x200B;을 클릭해야 합니다. 새 관리자가 초대 이메일의 **시작** 링크를 사용하지 않은 경우 Admin Console에 로그인할 수 없습니다.
+
+로그인 프로세스의 일부로, 아직 Adobe 프로필이 없는 사용자의 경우 프로필 설정을 요청받을 수 있습니다. 이메일 주소와 연결된 프로필이 여러 개 있는 경우 다음을 선택해야 합니다. **팀 참여** (메시지가 표시되면) 그런 다음 새 조직과 연관된 프로필을 선택합니다.
 
 ### Admin Console로 지원 티켓 만들기
 
