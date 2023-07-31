@@ -5,10 +5,10 @@ description: 새로운 Adobe 고객 지원 경험
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ Adobe는 고객 지원과 상호 작용하는 방법을 개선하기 위해 노�
 사용자가 조직에 참여하려면 이메일에서 **시작**&#x200B;을 클릭해야 합니다. 새 관리자가 초대 이메일의 **시작** 링크를 사용하지 않은 경우 Admin Console에 로그인할 수 없습니다.
 
 로그인 프로세스의 일부로, 아직 Adobe 프로필이 없는 사용자의 경우 프로필 설정을 요청받을 수 있습니다. 이메일 주소와 연결된 프로필이 여러 개 있는 경우 다음을 선택해야 합니다. **팀 참여** (메시지가 표시되면) 그런 다음 새 조직과 연관된 프로필을 선택합니다.
+
+![관리자 권한 확인](assets/admin-rights-confirmation.png)
+
+자세한 내용은 [enterprise 관리자 역할 편집](admin-roles.md#add-enterprise-role) 관리자 역할 설명서의 지침. 참고: 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 관리자의 계층에 대한 자세한 내용은 [관리자 역할](admin-roles.md) 설명서를 참조하세요.
 
 ### Admin Console로 지원 티켓 만들기
 
