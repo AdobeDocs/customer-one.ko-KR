@@ -5,9 +5,9 @@ description: 새로운 Adobe 고객 지원 경험
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '732'
 ht-degree: 78%
 
 ---
@@ -48,8 +48,8 @@ Adobe는 고객 지원과 상호 작용하는 방법을 개선하기 위해 노�
 
 1. 다음 두 옵션 중 하나를 선택합니다.
 
-   * 옵션 1: **[!UICONTROL 기본 지원 관리자]**. 사용자에게 모든 솔루션(Marketo 제외)에 대한 액세스 권한을 부여하려면 이 옵션을 선택합니다.
-   * 옵션 2: **[!UICONTROL 제품 지원 관리자]**: Marketo 지원을 위해 이 옵션을 선택합니다. 사용자에게 액세스 권한을 부여할 Marketo 인스턴스를 선택합니다.
+   * 옵션 1: **[!UICONTROL 기본 지원 관리자]**. 사용자에게 모든 솔루션(Marketo Engage 제외)에 대한 액세스 권한을 부여하려면 이 옵션을 선택합니다.
+   * 옵션 2: **[!UICONTROL 제품 지원 관리자]**: Marketo Engage 지원을 위해 이 옵션을 선택합니다. 사용자에게 액세스 권한을 부여할 Marketo Engage 인스턴스를 선택합니다.
 
    ![관리 권한 편집 Marketo](assets/edit-admin-rights-advanced.png)
 
