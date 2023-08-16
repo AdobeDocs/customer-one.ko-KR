@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ Adobe는 고객 지원과 상호 작용하는 방법을 개선하기 위해 노�
 
 ![관리자 권한 확인](assets/admin-rights-confirmation.png)
 
-자세한 내용은 [enterprise 관리자 역할 편집](admin-roles.md#add-enterprise-role) 관리자 역할 설명서의 지침. 참고: 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 관리자의 계층에 대한 자세한 내용은 [관리자 역할](admin-roles.md) 설명서를 참조하세요.
+자세한 내용은 관리자 역할 설명서의 [기업 관리자 역할 편집](admin-roles.md#add-enterprise-role) 지침을 따르세요. 참고: 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 관리자의 계층에 대한 자세한 내용은 [관리자 역할](admin-roles.md) 설명서를 참조하세요.
 
 ### Admin Console로 지원 티켓 만들기
 
