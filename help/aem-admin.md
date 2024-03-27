@@ -1,12 +1,11 @@
 ---
 title: AEM - 새로운 지원 경험 제공
-seo-title: Adobe Experience Manager - 새로운 지원 경험 제공
+seo-title: Adobe Experience Manager - New Support Experience Coming
 description: Adobe Experience Manager - 새로운 지원 경험 제공
-seo-description: Adobe Experience Manager - 새로운 지원 경험 제공
-translation-type: ht
+seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '283'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -34,11 +33,11 @@ Adobe의 기록에 따르면 귀하는 지정된 **시스템 관리자**&#x200B;
 
 >[!NOTE]
 >
->Adobe Experience Manager 제품에 대한 조직의 시스템 관리자로 2019년 11월 4일까지 이 역할을 수락하거나 대체 방법에 대해서 확인하고&#x200B;**[[!DNL 시스템 관리자 확인 양식]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 작성 및 제출**&#x200B;하여 주시기 바랍니다.￼
+>**2019년 11월 4일까지 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 작성하고 제출하여** 이 역할을 Adobe Experience Manager 제품에 대한 조직의 시스템 관리자로 수락(또는 다른 연락처 제공)하는지 확인하세요.
 >
 >이 양식을 작성하면 조직의 지정된 시스템 관리자에게 적절한 자격 증명이 할당됩니다.
 
-[[!DNL 시스템 관리 확인 양식]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 받으면 확인 이메일이 발송됩니다.
+[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)을 받으면 확인 이메일이 전송됩니다.
 
 이 이메일에 대한 질문이 있으면 customercare@adobe.com으로 문의하십시오.
 
