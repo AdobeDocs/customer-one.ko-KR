@@ -3,7 +3,7 @@ title: 관리 역할
 description: 조직에서 Adobe Admin Console을 사용하면 유연한 관리 계층을 정의하여 Adobe 제품 액세스 및 사용을 세밀하게 관리할 수 있습니다.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1689'
 ht-degree: 100%
 
