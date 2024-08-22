@@ -3,7 +3,7 @@ keywords: FAQ;자주 묻는 질문
 title: Adobe Business Platform 및 Admin Console FAQ
 description: Adobe Workfront FAQ
 exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
-source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
+source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
