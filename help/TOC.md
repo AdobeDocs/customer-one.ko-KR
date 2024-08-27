@@ -7,9 +7,9 @@ sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] 도움말"
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '23'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
