@@ -16,7 +16,7 @@ ht-degree: 96%
 
 ## Experience League 지원 티켓
 
-이제 [Experience League](https://experienceleague.adobe.com/home#support)를 통해 지원 티켓이 제출되었습니다. 지원 티켓을 제출하는 방법에 대한 안내는 [지원 티켓 제출](#create-a-support-ticket-with-experience-league) 섹션에서 확인하세요.
+이제 [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)를 통해 지원 티켓이 제출되었습니다. 지원 티켓을 제출하는 방법에 대한 안내는 [지원 티켓 제출](#create-a-support-ticket-with-experience-league) 섹션에서 확인하세요.
 
 Adobe는 고객 지원과 상호 작용하는 방법을 개선하기 위해 노력하고 있습니다. Adobe의 목표는 Experience League를 통해 단일 입력 포털로 전환하여 지원 환경을 간소화하는 것입니다. 변경 사항이 적용되면 조직은 Adobe 고객 지원 센터에 쉽게 액세스하고 공통 시스템을 통해 여러 제품의 서비스 기록을 더욱 정확하게 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅으로 도움을 요청할 수 있습니다.
 
@@ -24,7 +24,7 @@ Adobe Commerce 사용자인 경우 Adobe Commerce용 Experience League 지원 �
 
 ## 사례 제출에 필요한 권한 있는 역할 지원 {#submit-ticket}
 
-[Experience League](https://experienceleague.adobe.com/home#support)에서 지원 티켓을 제출하려면 시스템 관리자가 할당한 지원 관리자 역할이 있어야 합니다. 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리자 역할은 지원 관리자 역할을 할당할 수 없으며, 지원 티켓 제출에 사용하는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 다양한 유형의 관리자 역할과 해당 권한에 대한 자세한 내용은 [관리자 역할](admin-roles.md)을 참조하세요.
+[Experience League](https://experienceleague.adobe.com/home?lang=ko#support)에서 지원 티켓을 제출하려면 시스템 관리자가 할당한 지원 관리자 역할이 있어야 합니다. 이 역할은 조직의 시스템 관리자만이 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리자 역할은 지원 관리자 역할을 할당할 수 없으며, 지원 티켓 제출에 사용하는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 다양한 유형의 관리자 역할과 해당 권한에 대한 자세한 내용은 [관리자 역할](admin-roles.md)을 참조하세요.
 
 Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권한을 공유하는 프로세스가 다릅니다. 자세한 내용은 Adobe Commerce용 Experience League 지원 사용 안내서의 [공유 액세스: 다른 사용자가 계정에 액세스할 수 있는 권한 부여](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)를 참조하세요.
 
@@ -73,7 +73,7 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 
 이제 지원 사례를 제출하는 프로세스가 Experience League 지원 플랫폼과 직접 통합됩니다. 권한이 부여된 고객에게 더 많은 개인화와 사용 편이성을 제공하기 위해 최근에 새롭게 디자인된 셀프 서비스 포털입니다.
 
-1. [Experience League](https://experienceleague.adobe.com/home#support)를 사용하여 티켓을 만들려면 상단의 탐색 목록에 있는 **[!UICONTROL 지원]** 탭을 선택합니다.
+1. [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)를 사용하여 티켓을 만들려면 상단의 탐색 목록에 있는 **[!UICONTROL 지원]** 탭을 선택합니다.
    ![Experience league 지원 탭](./assets/experience-league-support-tab.png)
 1. 지원 홈페이지에서 열려 있는 지원 사례로 쉽게 이동하거나, 새 사례를 기록하거나, 주요 지원 문서를 보거나, 추가 학습 소스에 액세스할 수 있습니다.
    ![Experience league 지원 리소스](./assets/experience-league-support-resources.png)
@@ -85,7 +85,7 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
    * 비즈니스에 대한 영향
    * 고객 시간대(아메리카, EMEA, APAC)
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
 
 ![Experience League 티켓 우선 순위](./assets/experience-league-ticket-priority.png)
 
