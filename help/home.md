@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
 workflow-type: tm+mt
 source-wordcount: '942'
-ht-degree: 84%
+ht-degree: 87%
 
 ---
 
@@ -110,7 +110,7 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
    * 비즈니스에 대한 영향
    * 고객 시간대(아메리카, EMEA, APAC)
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
 
 ![Experience League 티켓 우선 순위](./assets/experience-league-ticket-priority.png)
 
