@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 
 >[!NOTE]
 >
-> 지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com) 사이트에서 Adobe 시스템 성능, 가용성 및 솔루션 문제를 확인하는 것이 좋습니다.
+> 지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com/kr) 사이트에서 Adobe 시스템 성능, 가용성, 솔루션 문제를 확인하는 것이 좋습니다.
 
 이제 지원 사례를 제출하는 프로세스가 Experience League 지원 플랫폼과 직접 통합됩니다. 권한이 부여된 고객에게 더 많은 개인화와 사용 편이성을 제공하기 위해 최근에 새롭게 디자인된 셀프 서비스 포털입니다.
 
@@ -81,26 +81,26 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
    ![Experience league 지원 탭](./assets/experience-league-support-tab.png)
 1. 지원 홈페이지에서 열려 있는 지원 사례로 쉽게 이동하거나, 새 사례를 기록하거나, 주요 지원 문서를 보거나, 추가 학습 소스에 액세스할 수 있습니다.
    ![Experience league 지원 리소스](./assets/experience-league-support-resources.png)
-1. 사례를 제출하려면 **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택하세요. 사이드바 메뉴에서 **[!UICONTROL 티켓 열기]** 옵션도 선택하십시오.
+1. 사례를 제출하려면 **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택하세요. 사이드바 메뉴의 **[!UICONTROL 티켓 열기]** 옵션도 선택합니다.
 
 
 ### 지원 티켓 작성
 
-1. **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택하면 사례 만들기 페이지로 이동합니다. 이 페이지에서는 제품 이름(Audience Manager, 캠페인, Target 등), **[!UICONTROL 사례 제목]** 및 **[!UICONTROL 사례 설명]**&#x200B;을 입력할 수 있습니다.
+1. **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택한 뒤에는 제품 이름(Audience Manager, Campaign, Target 등), **[!UICONTROL 사례 제목]**, **[!UICONTROL 사례 설명]**&#x200B;을 입력할 수 있는 사례 만들기 페이지로 이동합니다.
 
    ![Experience league 티켓 열기](./assets/experience-league-open-ticket.png)
 
-   문제 해결 프로세스를 신속하게 진행하려면 **[!UICONTROL 사례 설명]** 필드에 다음 정보를 추가하십시오.
+   문제 해결 프로세스를 신속하게 진행하려면 **[!UICONTROL 사례 설명]** 필드에 다음 정보를 추가합니다.
 
-   * 문제 설명 지우기
-   * 재현 단계
+   * 명확한 문제 설명
+   * 재현하기 위한 단계
    * 비즈니스 영향 설명
-   * 새로운 구현 / 기능 / 개발입니까?
-   * 그 절차가 언제 진행되었습니까?
-   * 문제 해결 단계
+   * 새로운 구현 / 기능 / 개발인가요?
+   * 이 프로세스는 언제 작동했나요?
+   * 수행한 문제 해결 단계
    * 관련 로그 데이터
    * 버전 번호
-   * 빌드 정보(해당되는 경우)
+   * 빌드 정보(해당 시)
    * 중요 식별자
 
 
