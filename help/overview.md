@@ -3,9 +3,18 @@ keywords: Workfront 지원;지원 티켓 제출;고객 지원
 title: Adobe Workfront 지원 개요
 description: Adobe Workfront가 Adobe Admin Console Platform의 일원이 됩니다.
 exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '221'
+TQID: https://experienceleague.adobe.com/X3yHLNwGTtoBwULWr6ZaCYkFiOIPXFN4kvaH9idDKg0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 247
 ht-degree: 100%
 
 ---
@@ -21,7 +30,7 @@ Adobe Workfront가 Adobe Admin Console Platform의 일원이 됩니다.
 * Workfront 사용자에 대해 여러 SSO 구성을 활용할 수 있습니다.
 * 다른 Adobe 제품과 동일한 방식으로 Workfront에 대한 권한을 관리할 수 있습니다.
 
-Adobe ID 및 Admin Console에 대해 심도 깊게 검토하시려면 [지원 페이지](https://helpx.adobe.com/kr/enterprise/admin-guide.html)를 참조하세요. 현재 Workfront 콘솔과 새 Adobe 콘솔의 비교도 [여기](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus)에서 확인할 수 있습니다.
+Adobe ID 및 Admin Console에 대해 심도 깊게 검토하시려면 [지원 페이지](https://helpx.adobe.com/kr/enterprise/admin-guide.html)를 참조하세요. 현재 Workfront 콘솔과 새 Adobe 콘솔의 비교도 [여기](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus)에서 확인할 수 있습니다.
 
 <!--
 New URL for July 27:

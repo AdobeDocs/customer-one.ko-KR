@@ -2,32 +2,40 @@
 title: Workfront Admin Console 랜딩 페이지
 description: Workfront Admin Console 랜딩 페이지
 exl-id: 46687939-d237-47ba-88bf-58550046f5e0
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/7MjjoY37MU6vYSMWlzthFRlE3R7FYYmYGP-QduBeNEI
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 255
+ht-degree: 0%
 
 ---
 
 # Workfront Admin Console 랜딩 페이지
 
-조직의 Adobe Admin Console 온보딩 준비 [마이그레이션 확인 목록](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=ko):
+Adobe Admin Console [마이그레이션 확인 목록](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=ko)에 조직을 온보딩할 준비를 하십시오.
 
-**마이그레이션 확인 목록**
+**마이그레이션 검사 목록**
 
-* Workfront를 추가할 Adobe Admin Console을 정합니다.
+* Workfront을 추가하려는 원하는 Adobe Admin Console을 식별합니다.
 
-  이미 다른 Adobe 제품이 있다면, 현재 Adobe Admin Console에 Adobe Workfront를 추가할 의향이 있음을 확인해 주세요. 자세한 내용은 [이 링크](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)를 사용하여 Adobe 제품 관리에 대한 모범 사례를 파악하세요.
+  다른 Adobe 제품이 이미 있는 경우 현재 Adobe Admin Console에 Adobe Workfront을 추가할 것인지 확인하십시오. 자세한 정보가 필요한 경우 [이 링크](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)를 사용하여 Adobe 제품 관리에 대한 모범 사례를 이해하십시오.
 
-* 배포 관련 도움은 [다음 링크](https://helpx.adobe.com/kr/enterprise/using/deployment-planning.html)를 참조하세요.
-* SSO(Single Sign-On)를 사용하는 경우 새 Adobe Admin Console을 기존 SSO 공급자에 연결해야 합니다.
-* 중복 이메일을 제거하고 유효한 이메일 주소만 사용하도록 설정했는지 확인하세요.
-* 사용자 정의 API 통합을 활용하는 경우 해당 사용자가 액세스할 수 있는 유효한 이메일 주소가 있는지 확인하세요.
+* 배포에 대한 도움말은 [다음 링크](https://helpx.adobe.com/kr/enterprise/using/deployment-planning.html)를 참조하십시오.
+* SSO(Single Sign-On)를 사용하는 경우 기존 SSO 공급자에 새 Adobe Admin Console을 연결해야 합니다.
+* 중복 이메일이 제거되고 유효한 이메일 주소만 사용되는지 확인하십시오.
+* 사용자 정의 API 통합을 활용하는 경우 해당 사용자에게 액세스할 수 있는 유효한 이메일 주소가 있는지 확인하십시오.
 
-  Workfront는 모든 사용자 정의 통합이 [OAuth2를 활용](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=ko)하도록 업데이트하는 것을 권장합니다.
+  Workfront은 모든 사용자 지정 통합을 [OAuth2 활용](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=ko)에 업데이트할 것을 권장합니다.
 
-콘솔을 구성한 후에는 이 링크를 참조하여 Adobe Admin Console 내에서 [사용자를 관리하는 방법](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=ko)을 확인하세요.
+콘솔을 구성한 후에는 이 링크를 참조하여 Adobe Admin Console에서 [사용자를 관리하는 방법](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=ko)을 확인하십시오.
 
 >[!TIP]
 >
->공지 일정보다 먼저 마이그레이션을 진행하고 싶으신가요? [여기](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi)를 통해 알려주세요.
+>줄의 맨 앞쪽으로 뛰어가서 일찍 이주하고 싶으세요? [여기](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi)를 알려주세요.
