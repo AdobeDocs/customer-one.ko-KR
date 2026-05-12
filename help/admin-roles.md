@@ -3,10 +3,17 @@ title: 관리 역할
 description: 조직에서 Adobe Admin Console을 사용하면 유연한 관리 계층을 정의하여 Adobe 제품 액세스 및 사용을 세밀하게 관리할 수 있습니다.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
 workflow-type: tm+mt
 source-wordcount: 1647
@@ -32,7 +39,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->관리 계층은 팀 고객에게는 적용되지 않습니다. 팀 고객에게는 단일 **시스템 관리자** 역할만 제공됩니다. 계약 소유자(_이전 이름:**기본 관리자**_)는 계약의 세부 사항 및 청구 내역에 액세스할 수 있는 시스템 관리자입니다. 현재 계약 소유자는 기존 시스템 관리자(_&#x200B;이전 이름: **보조 관리자**_)를 계약 소유자로 지정할 수 있습니다.
+>관리 계층은 팀 고객에게는 적용되지 않습니다. 팀 고객에게는 단일 **시스템 관리자** 역할만 제공됩니다. 계약 소유자(_이전 이름:**기본 관리자**&#x200B;_)는 계약의 세부 사항 및 청구 내역에 액세스할 수 있는 시스템 관리자입니다. 현재 계약 소유자는 기존 시스템 관리자(_&#x200B;이전 이름: **보조 관리자**&#x200B;_)를 계약 소유자로 지정할 수 있습니다.
 
 ![관리 이미지](assets/storage_admin.png)
 
