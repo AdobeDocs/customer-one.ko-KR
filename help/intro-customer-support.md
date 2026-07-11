@@ -6,10 +6,10 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 85%
+source-wordcount: 409
+ht-degree: 86%
 
 ---
 
@@ -19,8 +19,7 @@ Adobe는 Adobe Experience Manager 및 Campaign 제품을 시작으로 고객이 
 
 ## 추가 정보
 
-Adobe는 2월과 3월에 이 포털에서 새로운 지원 시스템 관리자와 지원 사용자를 모두 설정할 예정입니다. 기록에 현재 Adobe의 Admin Console에서 지원 시스템 관리자 역할을 하고 있거나 - 조직 내에 Adobe Campaign 및/또는 Adobe Experience Manager을 배포하기 위해 귀하의 이름이 Adobe의 고객 담당자로 구매 계약에 나열되어 있는 경우 조직의 지원 시스템 관리자로 설정됩니다.
-지원 시스템 관리자는 Admin Console에서 슈퍼 사용자 역할을 하며 새로운 지원 사용자가 생성될 때마다 시스템에서 생성된 이메일을 보게 됩니다. 또한 지원 시스템 관리자는 다음과 같은 작업을 수행할 수 있습니다.
+Adobe는 2월과 3월에 이 포털에서 새로운 지원 시스템 관리자와 지원 사용자를 모두 설정할 예정입니다. 기록에 현재 Adobe의 Admin Console에서 지원 시스템 관리자 역할을 하고 있거나 - 조직 내에 Adobe Campaign 및/또는 Adobe Experience Manager을 배포하기 위해 귀하의 이름이 Adobe의 고객 담당자로 구매 계약에 나열되어 있는 경우 조직의 지원 시스템 관리자로 설정됩니다.지원 시스템 관리자는 Admin Console에서 슈퍼 사용자 역할을 하며 새로운 지원 사용자가 생성될 때마다 시스템에서 생성된 이메일을 보게 됩니다. 또한 지원 시스템 관리자는 다음과 같은 작업을 수행할 수 있습니다.
 
 * 포털에서 지원 사용자 생성/제거 및 액세스 역할 관리
 * Adobe 고객 지원 센터의 지원 사례를 통해 보다 손쉽게 작업할 수 있는 사례 관리 툴 활용
@@ -49,3 +48,4 @@ Adobe는 2월과 3월에 이 포털에서 새로운 지원 시스템 관리자�
 * 고객이 새로운 시스템 사용 시작
 
 이 이메일에 대한 질문이 있으면 [customercare@adobe.com](mailto:customercare@adobe.com)으로 문의하십시오.
+

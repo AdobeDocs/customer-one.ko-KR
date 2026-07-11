@@ -5,9 +5,9 @@ description: 새로운 Adobe 고객 지원 경험
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: ht
-source-wordcount: '942'
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+workflow-type: tm+mt
+source-wordcount: '1006'
 ht-degree: 100%
 
 ---
@@ -78,9 +78,13 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 이제 지원 사례를 제출하는 프로세스가 Experience League 지원 플랫폼과 직접 통합됩니다. 권한이 부여된 고객에게 더 많은 개인화와 사용 편이성을 제공하기 위해 최근에 새롭게 디자인된 셀프 서비스 포털입니다.
 
 1. [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)를 사용하여 티켓을 만들려면 상단의 탐색 목록에 있는 **[!UICONTROL 지원]** 탭을 선택합니다.
+
    ![Experience league 지원 탭](./assets/experience-league-support-tab.png)
+
 1. 지원 홈페이지에서 열려 있는 지원 사례로 쉽게 이동하거나, 새 사례를 기록하거나, 주요 지원 문서를 보거나, 추가 학습 소스에 액세스할 수 있습니다.
+
    ![Experience league 지원 리소스](./assets/experience-league-support-resources.png)
+
 1. 사례를 제출하려면 **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택하세요. 사이드바 메뉴의 **[!UICONTROL 티켓 열기]** 옵션도 선택합니다.
 
 
@@ -112,7 +116,7 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 
    사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
 
-![Experience League 티켓 우선 순위](./assets/experience-league-ticket-priority.png)
+   ![Experience League 티켓 우선 순위](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
@@ -120,14 +124,9 @@ Commerce를 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 
 
 
-
-
-
-
-
 >[!NOTE]
 >
-> 문제로 인해 생산 시스템의 가동이 중단되거나 심각한 고장이 발생한 경우, 제공되는 전화번호로 연락하여 즉시 도움을 받을 수 있습니다.
+> 문제로 인해 프로덕션 시스템의 가동이 중단되거나 심각한 고장이 발생한 경우, 제공되는 전화번호로 연락하여 즉시 도움을 받을 수 있습니다.
 
 
 
