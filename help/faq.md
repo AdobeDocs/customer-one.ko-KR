@@ -6,13 +6,12 @@ exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
 TQID: https://experienceleague.adobe.com/6lxvN0hmXbETV9v2VXDv3R7zxrua37YlFb9hSWfG5Gg
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: '507'
 ht-degree: 0%
-
 ---
-
 # Adobe 비즈니스 플랫폼 및 Admin Console FAQ
 
 +++**Adobe ID와 Admin Console란 무엇입니까?**
@@ -61,7 +60,7 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
 
-&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
