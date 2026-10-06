@@ -6,13 +6,12 @@ exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 TQID: https://experienceleague.adobe.com/7A-slw01d3JP1PTJsx-JxobzrwWPCGdQgwT2T2B8QAA
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 459
+source-wordcount: '459'
 ht-degree: 100%
-
 ---
-
 # 새로운 Adobe 고객 지원 경험
 
 Adobe는 고객을 배려하고 고객이 도움이 필요할 때 Adobe 고객 지원 센터의 지원을 보다 쉽게 받을 수 있도록 노력하고 있습니다. Adobe는 단일 지원 포털인 Adobe Admin Console을 통해 경험을 간소화하여 Adobe Analytics, Target, Audience Manager에 대한 고객 지원을 향상하고 있습니다. 이와 같은 전환을 통해 서비스 내역을 더욱 정확하게 파악하고, 공통 플랫폼을 통해 전화, 웹, 채팅을 통해 지원을 요청할 수 있습니다. 이 변경 사항은 2022년 4월에 적용될 계획입니다.
