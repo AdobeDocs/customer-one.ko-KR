@@ -2,7 +2,7 @@
 title: 관리 역할
 description: 조직에서 Adobe Admin Console을 사용하면 유연한 관리 계층을 정의하여 Adobe 제품 액세스 및 사용을 세밀하게 관리할 수 있습니다.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
+TQID: 'https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
@@ -13,7 +13,7 @@ subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
     internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-    internal-label: Organizations, Organizations (AEC)
+    internal-label: Organizations
   - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
     internal-label: Onboarding
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
@@ -21,7 +21,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
+source-git-commit: da9c6686ce4eaf590848a1fcb50269bba92a1f1a
 workflow-type: tm+mt
 source-wordcount: '1647'
 ht-degree: 97%
@@ -44,7 +44,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->관리 계층은 팀 고객에게는 적용되지 않습니다. 팀 고객에게는 단일 **시스템 관리자** 역할만 제공됩니다. 계약 소유자(_이전 이름:**기본 관리자**&#x200B;_)는 계약의 세부 사항 및 청구 내역에 액세스할 수 있는 시스템 관리자입니다. 현재 계약 소유자는 기존 시스템 관리자(_&#x200B;이전 이름: **보조 관리자**&#x200B;_)를 계약 소유자로 지정할 수 있습니다.
+>관리 계층은 팀 고객에게는 적용되지 않습니다. 팀 고객에게는 단일 **시스템 관리자** 역할만 제공됩니다. 계약 소유자(_이전 이름:**기본 관리자**_)는 계약의 세부 사항 및 청구 내역에 액세스할 수 있는 시스템 관리자입니다. 현재 계약 소유자는 기존 시스템 관리자(_&#x200B;이전 이름: **보조 관리자**_)를 계약 소유자로 지정할 수 있습니다.
 
 ![관리 이미지](assets/storage_admin.png)
 
